@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "nome": "Smartphone XYZ",
+        "marca": "TechMobile",
+        "categoria": "Eletrônicos",
+        "preco": 1999.99,
+        "quantidadeEmEstoque": 15,
+        "disponivelParaProntaEntrega": true
+    },
+    {
+        "id": 2,
+        "nome": "Notebook Pro",
+        "marca": "CompTech",
+        "categoria": "Informática",
+        "preco": 4599.90,
+        "quantidadeEmEstoque": 7,
+        "disponivelParaProntaEntrega": false
+    },
+    {
+        "id": 3,
+        "nome": "Fone de Ouvido Bluetooth",
+        "marca": "SoundMagic",
+        "categoria": "Acessórios",
+        "preco": 299.99,
+        "quantidadeEmEstoque": 50,
+        "disponivelParaProntaEntrega": true
+    }
+]
